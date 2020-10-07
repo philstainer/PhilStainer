@@ -2,7 +2,7 @@
 
 Full-stack developer with a passion for building things.
 
-- 🔭 I’m currently working on ReactJS, Nodejs, GraphQL and PostgreSQL :smile:
+- 🔭 I’m currently working with ReactJS, Nodejs, GraphQL and PostgreSQL :smile:
 - 📚 I’m currently learning AWS and CI/CD
 - 💬 Ask me about anything related to Javascript or React/Express
 - 📬 How to reach me: [@PhilStainer](https://twitter.com/PhilStainer)
